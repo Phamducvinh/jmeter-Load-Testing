@@ -19,7 +19,7 @@
 ### 2. Kiểm tra `canvas.phenikaa-uni.edu.vn/courses`
 - ![alt text](image-1.png)
 
-### 3. Kiểm tra `/courses/`
+### 3. Kiểm tra `canvas.phenikaa-uni.edu.vn/courses/10836`
 - ![alt text](image-2.png)
 
 ### 4. View Results Tree
